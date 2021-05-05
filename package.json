@@ -1,0 +1,19 @@
+{
+  "name": "learnes6",
+  "version": "1.0.0",
+  "description": "learnes6 by developing a nodejs application",
+  "main": "server.js",
+  "scripts": {
+    "test": "testing "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maya-58/LEARNES6.git"
+  },
+  "author": "Wanheda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maya-58/LEARNES6/issues"
+  },
+  "homepage": "https://github.com/maya-58/LEARNES6#readme"
+}
