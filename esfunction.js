@@ -79,4 +79,4 @@ console.log(`Got value =${value}`);
   }
   print();
 
- 
+  (()=>console.log("I am checking github"))();
