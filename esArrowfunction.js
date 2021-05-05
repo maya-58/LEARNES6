@@ -1,6 +1,3 @@
-//let esfunction = require('./esfunction');
-
-//let runlog=esfunction.runlog;
 let runlog=function(value){
     console.log(`Got value =${value}`);
     }
@@ -93,4 +90,4 @@ strdn();
 
     console.log(GPS.next());
     console.log(GPS.next());
-   // console.log(GPS.next());
+ 

@@ -69,8 +69,6 @@ const y1=100;
 //y1=200; it will throw Assignment to constant variable.
 
 //Gloabl Scope & Local Scope
-
-
 console.log('-----------------Variable Hoisting-----------------------------');
 //Variable Hoisting
 //Hoisting is the default behavior of JavaScript to move all declarations to the top of the current script, current function, or current scope. It allows you to use the variable before its declaration.
